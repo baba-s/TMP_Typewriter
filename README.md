@@ -23,7 +23,7 @@ Typewriter for TextMesh Pro. TMP_Typewriter prints out characters one by one. ( 
 
 ## How To Use
 
-<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20181225/20181225152543.png" />
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20181225/20181225152543.png)
 
 1. Download and import .unitypackage from [Releases](https://github.com/baba-s/TMP_Typewriter/releases).
 2. Add a TMP_Typewriter component to the GameObject.
@@ -33,7 +33,7 @@ Typewriter for TextMesh Pro. TMP_Typewriter prints out characters one by one. ( 
 
 ### Normal
 
-<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20181224/20181224115900.gif" />
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20181224/20181224115900.gif)
 
 ```cs
 m_typewriter.Play
@@ -46,7 +46,7 @@ m_typewriter.Play
 
 ### Rich Text
 
-<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20181224/20181224115909.gif" />
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20181224/20181224115909.gif)
 
 ```cs
 m_typewriter.Play
@@ -59,7 +59,7 @@ m_typewriter.Play
 
 ### Sprite
 
-<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20181224/20181224115917.gif" />
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20181224/20181224115917.gif)
 
 ```cs
 m_typewriter.Play
@@ -72,7 +72,7 @@ m_typewriter.Play
 
 ### Skip
 
-<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20181224/20181224115929.gif" />
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20181224/20181224115929.gif)
 
 ```cs
 m_typewriter.Skip();        // with onComplete callback
@@ -81,7 +81,7 @@ m_typewriter.Skip( false ); // without onComplete callback
 
 ### Pause & Resume
 
-<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20181225/20181225202540.gif" />
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20181225/20181225202540.gif)
 
 ```cs
 m_typewriter.Pause();
@@ -90,6 +90,6 @@ m_typewriter.Resume();
 
 ### Other
 
-<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20181225/20181225210140.gif" />
+![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20181225/20181225210140.gif)
 
 Compatible with [CharTweener](https://github.com/mdechatech/CharTweener).
