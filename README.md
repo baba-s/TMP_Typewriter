@@ -20,7 +20,7 @@ Typewriter for TextMesh Pro. TMP_Typewriter prints out characters one by one. ( 
 
 1. Download and import .unitypackage from [Releases](https://github.com/baba-s/TMP_Typewriter/releases).
 2. Add a TMP_Typewriter component to the GameObject.
-3. Call the TMP_Typewriter.Play.
+3. Add `using KoganeUnityLib;` and call the `TMP_Typewriter.Play`.
 
 ## Example
 
