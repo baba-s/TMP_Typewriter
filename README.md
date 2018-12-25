@@ -71,3 +71,12 @@ m_typewriter.Play
 m_typewriter.Skip();        // with onComplete callback
 m_typewriter.Skip( false ); // without onComplete callback
 ```
+
+### Pause & Resume
+
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20181225/20181225202540.gif" />
+
+```cs
+m_typewriter.Pause();
+m_typewriter.Resume();
+```
