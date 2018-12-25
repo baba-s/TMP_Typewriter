@@ -16,6 +16,8 @@ Typewriter for TextMesh Pro. TMP_Typewriter prints out characters one by one. ( 
 
 ## How To Use
 
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20181225/20181225152543.png" />
+
 1. Add a TMP_Typewriter component to the GameObject.
 2. Call the TMP_Typewriter.Play.
 
