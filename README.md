@@ -3,8 +3,8 @@
 Typewriter for TextMesh Pro. TMP_Typewriter prints out characters one by one. ( Required the DOTween. )
 
 [![](https://img.shields.io/github/release/baba-s/TMP_Typewriter.svg?label=latest%20version)](https://github.com/baba-s/TMP_Typewriter/releases)
-![](https://img.shields.io/github/release-date/baba-s/TMP_Typewriter.svg)](https://github.com/baba-s/TMP_Typewriter/releases)
-[![](https://img.shields.io/badge/Unity-2017.4%2B-brightgreen.svg)
+[![](https://img.shields.io/github/release-date/baba-s/TMP_Typewriter.svg)](https://github.com/baba-s/TMP_Typewriter/releases)
+![](https://img.shields.io/badge/Unity-2017.4%2B-brightgreen.svg)
 [![](https://img.shields.io/github/license/baba-s/TMP_Typewriter.svg)](https://github.com/baba-s/TMP_Typewriter/blob/master/LICENSE)
 
 ## Features
