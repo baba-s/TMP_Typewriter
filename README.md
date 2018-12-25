@@ -6,7 +6,9 @@ Typewriter for TextMesh Pro. TMP_Typewriter prints out characters one by one. ( 
 
 - Support for Rich Text
 - Skippable
+- Can pause and resume
 - OnComplete callback
+- Compatible with [CharTweener](https://github.com/mdechatech/CharTweener)
 
 ## Version
 
