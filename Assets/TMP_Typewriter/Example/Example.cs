@@ -49,6 +49,16 @@ namespace KoganeUnityLib.Example
 				// 演出をスキップ（onComplete は呼び出されない）
 				m_typewriter.Skip( false );
 			}
+			if ( Input.GetKeyDown( KeyCode.N ) )
+			{
+				// 演出を一時停止
+				m_typewriter.Pause();
+			}
+			if ( Input.GetKeyDown( KeyCode.M ) )
+			{
+				// 演出を再開
+				m_typewriter.Resume();
+			}
 		}
 	}
 }

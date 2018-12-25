@@ -91,6 +91,22 @@ namespace KoganeUnityLib
 		}
 
 		/// <summary>
+		/// 演出を一時停止します
+		/// </summary>
+		public void Pause()
+		{
+			m_tween?.Pause();
+		}
+
+		/// <summary>
+		/// 演出を再開します
+		/// </summary>
+		public void Resume()
+		{
+			m_tween?.Play();
+		}
+
+		/// <summary>
 		/// 演出を更新する時に呼び出されます
 		/// </summary>
 		private void OnUpdate( float value )
