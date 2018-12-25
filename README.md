@@ -80,3 +80,9 @@ m_typewriter.Skip( false ); // without onComplete callback
 m_typewriter.Pause();
 m_typewriter.Resume();
 ```
+
+### Other
+
+<img src="https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20181225/20181225210140.gif" />
+
+Compatible with [CharTweener](https://github.com/mdechatech/CharTweener).
