@@ -1,5 +1,13 @@
 # TMP_Typewriter
 
+Typewriter for TextMesh Pro. TMP_Typewriter prints out characters one by one. ( Required the DOTween. )
+
+## Features
+
+- Support for Rich Text
+- Skippable
+- OnComplete callback
+
 ## Version
 
 - Unity 2018.3.0f2
